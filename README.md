@@ -1,6 +1,6 @@
 # 🧠 Second Brain — Thesis Research Assistant
 
-> *"I read many papers, made notes, built a literature review matrix — and still couldn't find what I needed when actually writing."*
+> *"I read many papers, made notes, built a literature review matrix — and still couldn't find what I needed when it comes to actual writing."*
 
 This is the tool I built to solve that problem.
 
