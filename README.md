@@ -26,8 +26,7 @@ It answers by reading *your own files* and citing them back to you — not from 
 
 ## Built For
 
-Thesis: *"Does social connectedness (measured by Facebook's Social Connectedness Index) affect post-M&A ESG performance?"*
-Newcastle University Business School — PhD Finance
+Initially, the project was built to help me write my thesis: *"Does social connectedness (measured by Facebook's Social Connectedness Index) affect post-M&A ESG performance?"*
 
 But the system works for any research topic — just point it at your own files.
 
