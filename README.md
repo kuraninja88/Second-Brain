@@ -1,8 +1,35 @@
 # 🧠 Second Brain — Thesis Research Assistant
 
-A fully local, offline RAG (Retrieval-Augmented Generation) system for academic thesis writing. Ask questions about your research, get cited answers from your own papers and notes, and browse your literature review matrix — all running on your own machine with no API costs.
+> *"I read many papers, made notes, built a literature review matrix — and still couldn't find what I needed when actually writing."*
 
-Built for a thesis on **"Does social connectedness (Facebook's SCI) affect post-M&A ESG performance?"** at Newcastle University Business School, but the system is general-purpose for any research topic.
+This is the tool I built to solve that problem.
+
+## The Problem
+
+When writing a thesis, you accumulate hundreds of papers, notes, and highlights across months of reading. The information is all *there* — but scattered across PDFs, Word documents, and spreadsheets. When you finally sit down to write a chapter, you can't find the paper that discussed exactly what you need, or you forget which note mentioned a specific methodology.
+
+Traditional solutions (Zotero, Notion, spreadsheets) help you *store* information. They don't help you *retrieve* it at the moment you need it.
+
+## The Solution
+
+A local AI system that indexes everything you've read — papers, reading notes, daily research notes, thesis drafts — and lets you ask questions in plain English:
+
+- *"What papers discuss cultural distance in cross-border M&A?"*
+- *"Which studies found a negative relationship between ESG and firm performance?"*
+- *"Help me write a literature synthesis on social connectedness as a deal determinant"*
+
+It answers by reading *your own files* and citing them back to you — not from general AI knowledge, but from your actual research materials.
+
+**Everything runs on your own laptop. No internet after setup. No API costs. Your research data never leaves your machine.**
+
+---
+
+## Built For
+
+Thesis: *"Does social connectedness (measured by Facebook's Social Connectedness Index) affect post-M&A ESG performance?"*
+Newcastle University Business School — MSc Finance
+
+But the system works for any research topic — just point it at your own files.
 
 ---
 
