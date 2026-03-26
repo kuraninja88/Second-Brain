@@ -1,0 +1,8 @@
+chromadb
+pdfplumber
+streamlit
+ollama
+python-docx
+openpyxl
+pandas
+pypdf
